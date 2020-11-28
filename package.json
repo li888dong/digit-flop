@@ -1,0 +1,19 @@
+{
+  "name": "digit-flop",
+  "version": "1.0.0",
+  "description": "''\u001b[D一个数字日历翻页组件 基于vue",
+  "main": "index.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/li888dong/digit-flop.git"
+  },
+  "author": "lidong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/li888dong/digit-flop/issues"
+  },
+  "homepage": "https://github.com/li888dong/digit-flop#readme"
+}
